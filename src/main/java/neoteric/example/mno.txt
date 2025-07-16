@@ -1,1 +1,2 @@
+and using llm ollama model
 in the ollama model using the llama3
